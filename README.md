@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @farhan7fr
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning about software development.
+- 💞️ I’m looking to collaborate on python web projects.
+- 📫 Reach me on my github account.
